@@ -1,19 +1,9 @@
 Record of work at Jeffiez
 $10 / Hr + Tips
 
+Format: Day|Dt|Hrs|Pay|Tip|Tot
 
-
-08.24 - 08.27         W       T       F       S       SUM
-          HRS                 3       4               7
-          Pay                 $30     $40             $70
-          TIP                         $17.25          $17.25
-          
-08.31 - 09.03         W       T       F       S       SUM
-          HRS         4        
-          Pay         $40 
-          TIP         $14.50
-          
-09.07 - 09.10         W       T       F       S       SUM
-          HRS            
-          Pay                 
-          TIP      
+T 08.25 3 $30 $00.00 $30.00
+F 08.26 4 $40 $17.25 $57.25 $87.25          
+W 08.31 4 $40 $14.50 $54.50    
+T 09.01 
