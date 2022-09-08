@@ -1,3 +1,3 @@
-# jeffiez
+# jeffie'z
 
-Keeping track of hours, pay, and tips
+Just keeping tabs on daily/weekly and total xtra cash!
